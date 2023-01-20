@@ -1,2 +1,4 @@
 # TCPSockets
-A python application to transfer messages using TCP sockets
+A python application to transfer messages/images/files using TCP sockets.
+
+
